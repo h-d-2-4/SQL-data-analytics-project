@@ -1,2 +1,10 @@
-# SQL-data-analytics-project
-End-to-end SQL data analytics project with raw data, cleaning scripts, and insights queries
+# SQL Data Analytics Project
+
+End-to-end data analysis project using SQL. This project includes:
+- Database initialization
+- Table creation and data population
+- Exploratory and analytical queries
+
+## 📁 Folder Structure
+
+
